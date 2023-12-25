@@ -42,13 +42,13 @@ section p {
 
 
 section#img01{
-    background-image: url("Cordel-Moderno/background001.jpg");
+    background-image: url("../Cordel-Moderno/background001.jpg");
     background-position: right center;
     
 }
 
 section#img02{
-    background-image: url("Cordel-Moderno/background002.jpg");
+    background-image: url("../Cordel-Moderno/background002.jpg");
     background-position:   left bottom;
     
 }
